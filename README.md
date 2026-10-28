@@ -146,9 +146,12 @@ The `toDataURL()` method converts the canvas content into a PNG data URL, which 
 
 ```text
 pixelcraft-image-editor/
+├── screenshots/
+│   ├── editor-preview.png
+│   └── filters-preview.png
 ├── index.html
-├── theme.css
 ├── style.css
+├── theme.css
 ├── script.js
 └── README.md
 ```
