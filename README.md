@@ -116,6 +116,14 @@ downloadLink.click();
 
 The `toDataURL()` method converts the canvas content into a PNG data URL, which can then be downloaded through a link.
 
+## 📸 Project Preview
+
+### Main Interface
+![PixelCraft Editor](screenshots/editor-preview.png)
+
+### Filters and Presets
+![Canvas Filters and Presets](screenshots/filters-preview.png)
+
 ## 🔄 Image Rendering Workflow
 
 1. The user uploads an image.
